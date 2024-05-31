@@ -1,9 +1,9 @@
 # Site Info
-title:              "art by feliz"
+title:              "art by eli lobo"
 description:        "here are my favorite drawings"
 
 # Author Info
-author_name:        f-e-l-i-z
+author_name:        Eli Lobo
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -21,7 +21,7 @@ paginate: 5
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: f-e-l-i-z
+    shortname: elilobo
     
 # Site Build
 highlighter: rouge
