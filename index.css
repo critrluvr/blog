@@ -237,6 +237,10 @@ height:800px!important;
   margin-top:4px;
 }
 
+div.photo {
+  background:var(--post);
+}
+
 html,
 html[data-theme="light"] {
 	--text-color: #000000;
