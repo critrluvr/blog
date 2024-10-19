@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leroux's Erik, Sketch
+date: 2024-10-01
 img: 2024-leroux-erik-sketch.jpg
 thumbnail: 2024-leroux-erik-sketch-thumb.jpg
 comments: true
