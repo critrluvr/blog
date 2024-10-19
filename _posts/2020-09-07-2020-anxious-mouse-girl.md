@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Anxious Mouse Girl Portrait
+date: 2020-09-07
 img: 2020-anxious-mouse-girl.png
 thumbnail: 2020-anxious-mouse-girl-thumb.jpg
 comments: true
