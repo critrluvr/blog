@@ -157,12 +157,12 @@ a.desktop:hover, a.desktop:active, a.desktop:focus, p a:hover, p a:active, p a:f
     max-height:90%!important;
 }
 
-.post img, .uk-lightbox img {
+.post img, .uk-lightbox img, .displayArt img {
 background:var(--post);
 border:2px solid var(--text-color);
 }
 
-.post img {
+.post img, .displayArt img {
 	box-shadow: var(--black-color) 12px 12px 0px 0px;
 }
 
