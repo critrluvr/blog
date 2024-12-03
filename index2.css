@@ -162,6 +162,10 @@ background:var(--post);
 border:2px solid var(--text-color);
 }
 
+.post img {
+	box-shadow: var(--black-color) 12px 12px 0px 0px;
+}
+
 .uk-grid-small:hover a img{
   opacity: .6;
 }
@@ -243,11 +247,11 @@ height:800px!important;
 }
 
 .uk-grid-column-small > *, .uk-grid-small > * {
-  padding-left:4px;
+  padding-left:20px;
 }
 
 .uk-grid-small > .uk-grid-margin {
-  margin-top:4px;
+  margin-top:20px;
 }
 
 div.photo img {
