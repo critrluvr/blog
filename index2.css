@@ -150,6 +150,7 @@ a.desktop:hover, a.desktop:active, a.desktop:focus, p a:hover, p a:active, p a:f
 
 .post img, .uk-lightbox img {
 background:var(--post);
+border:2px solid var(--text-color);
 }
 
 .uk-grid-small:hover a img{
