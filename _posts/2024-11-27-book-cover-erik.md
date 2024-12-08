@@ -5,6 +5,15 @@ date: 2024-11-27
 img: 2024-book-cover-erik-sketch.jpg
 thumbnail: 2024-book-cover-erik-sketch-thumb.jpg
 comments: true
-excerpt: "I wanted to draw the Erik from <a href='https://phantomoftheopera.fandom.com/wiki/The_Phantom_of_the_Opera?file=Cover.jpg' target='_blank'>the original cover painted by André Castaigne</a> on <em>The Phantom of the Opera</em> by Gaston Leroux with some changes, mainly his hat and his mask, to match the text a little closer. I prefer a smiling Erik over the more melancholy depictions." 
+excerpt: "I wanted to draw the Erik from <a href='https://phantomoftheopera.fandom.com/wiki/The_Phantom_of_the_Opera?file=Cover.jpg' target='_blank'>the original cover painted by André Castaigne</a> on <em>The Phantom of the Opera</em> by Gaston Leroux with some changes, mainly his hat and his mask, to match the text a little closer. I prefer a smiling Erik over the more melancholy depictions. I referenced my own hand." 
 year: 2024
 ---
+
+<p style="text-align:left;line-height: 135%;" class="description">
+Here is the drawing with the cloth part of the mask filled in using Photoshop's content-aware fill.
+</p>
+
+ <div uk-lightbox="animation: fade">
+     <p style="text-align:center;line-height: 135%;">
+	     <a href="/art/img/2024-book-cover-erik-sketch-filled.jpg" data-caption="{{ page.title }} by Eli Lobo, {{ page.date | date: '%B %Y' }}"><img src="/art/img/2024-book-cover-erik-sketch-filled.jpg" alt="{{ page.title }} by Eli Lobo" class="displayArt"></a></p>
+ </div>   
