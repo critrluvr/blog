@@ -164,7 +164,7 @@ background:var(--post);
 
 .post img, img.displayArt {
 	border:2px solid var(--text-color);
-	box-shadow: var(--black-color) 12px 12px 0px 0px;
+	/*box-shadow: var(--black-color) 12px 12px 0px 0px;*/
 }
 
 .uk-grid-small:hover a img{
