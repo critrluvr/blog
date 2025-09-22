@@ -1,6 +1,6 @@
 # Site Info
-title:              "Lobo's Art"
-description:        "Here are my favorite drawings"
+title:              "Lobo's Blog"
+description:        "Here is my blog about my drawings, plushies, and other interests."
 
 # Author Info
 author_name:        Lobo
@@ -49,5 +49,6 @@ defaults:
       type:          "posts"
     values:
       layout:        "post"
+
 
 
