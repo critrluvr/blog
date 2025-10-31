@@ -1,5 +1,5 @@
 # Site Info
-title:              "Lo's Blog"
+title:              "Lobo's Blog"
 description:        "Here is my blog about my drawings, plushies, and other interests."
 
 # Author Info
@@ -49,6 +49,7 @@ defaults:
       type:          "posts"
     values:
       layout:        "post"
+
 
 
 
