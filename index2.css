@@ -270,10 +270,10 @@ div.photo img {
 html {
 	--text-color: #ff00cb; /**azure**/
 	--accent-color: #00ff40;
-	--card-color: #080808;
+	--card-color: whitesmoke; /**#080808**/
 	--white-color: azure;
-	--black-color: #080808;
-	--bg-color: #080808;
+	--black-color: whitesmoke; /**#080808**/
+	--bg-color: whitesmoke; /**#080808**/
 	--shadows: rgba(1, 0, 19, 0.23);
 	--post: lavender;
 	--bio:rgba(11,3,23,.5);
@@ -377,7 +377,7 @@ html[data-theme="dark"] {
 	div.links a.link, button {
 	/*margin:0 0 20px 0;*/
 	}
-   div.links, div.links a.link {
+    div.links, div.links a.link {
       /*width: 100%;*/
    }
 }
